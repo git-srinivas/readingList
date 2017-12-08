@@ -17,6 +17,7 @@ https://github.com/yorkie/tensorflow-nodejs
 https://github.com/transcranial/keras-js
 https://github.com/nikhilk/node-tensorflow
 https://blog.socialcops.com/engineering/machine-learning-python/
+https://medium.com/@ilblackdragon/tensorflow-tutorial-part-1-c559c63c0cb1
 
 # reactNative
 http://www.awesome-react-native.com/#tutorials
