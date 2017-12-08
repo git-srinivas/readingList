@@ -9,6 +9,9 @@ https://blog.websecurify.com/2014/08/hacking-nodejs-and-mongodb.html
 https://www.datacamp.com/community/tutorials/machine-learning-python
 https://www.coursera.org/learn/python-machine-learning
 https://elitedatascience.com/machine-learning-projects-for-beginners
+https://blog.socialcops.com/engineering/machine-learning-python/
+https://medium.com/@ilblackdragon/tensorflow-tutorial-part-1-c559c63c0cb1
+https://blog.socialcops.com/engineering/machine-learning-python/
 
 ## machine learning in nodejs
 https://github.com/lramsey/scikit-node
@@ -16,8 +19,7 @@ https://github.com/node-tensorflow/node-tensorflow
 https://github.com/yorkie/tensorflow-nodejs
 https://github.com/transcranial/keras-js
 https://github.com/nikhilk/node-tensorflow
-https://blog.socialcops.com/engineering/machine-learning-python/
-https://medium.com/@ilblackdragon/tensorflow-tutorial-part-1-c559c63c0cb1
+
 
 # reactNative
 http://www.awesome-react-native.com/#tutorials
