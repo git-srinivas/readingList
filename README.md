@@ -10,6 +10,13 @@ https://www.datacamp.com/community/tutorials/machine-learning-python
 https://www.coursera.org/learn/python-machine-learning
 https://elitedatascience.com/machine-learning-projects-for-beginners
 
+## machine learning in nodejs
+https://github.com/lramsey/scikit-node
+https://github.com/node-tensorflow/node-tensorflow
+https://github.com/yorkie/tensorflow-nodejs
+https://github.com/transcranial/keras-js
+https://github.com/nikhilk/node-tensorflow
+
 # reactNative
 http://www.awesome-react-native.com/#tutorials
 https://kylewbanks.com/blog/react-native-tutorial-part-2-designing-a-calculator
