@@ -34,3 +34,8 @@ https://code.tutsplus.com/tutorials/creating-a-dictionary-app-using-react-native
 https://forum.freecodecamp.org/t/best-react-native-tutorials/90436
 https://www.raywenderlich.com/165140/react-native-tutorial-building-ios-android-apps-javascript
 https://school.shoutem.com/lectures/build-react-native-mobile-app-tutorial/
+
+# react
+https://github.com/kristoferjoseph/flexboxgrid
+https://github.com/rafaelhz/react-material-admin-template/blob/master/src/containers/DashboardPage.js
+https://rafaelhz.github.io/react-material-admin-template/#/dashboard?_k=z17ibf
