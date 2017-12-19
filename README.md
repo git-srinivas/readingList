@@ -39,3 +39,9 @@ https://school.shoutem.com/lectures/build-react-native-mobile-app-tutorial/
 https://github.com/kristoferjoseph/flexboxgrid
 https://github.com/rafaelhz/react-material-admin-template/blob/master/src/containers/DashboardPage.js
 https://rafaelhz.github.io/react-material-admin-template/#/dashboard?_k=z17ibf
+
+# pen testing
+https://pentesterlab.com/
+http://opensecuritytraining.info/Training.html
+https://picoctf.com/
+
