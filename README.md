@@ -14,6 +14,7 @@ https://medium.com/@ilblackdragon/tensorflow-tutorial-part-1-c559c63c0cb1
 https://blog.socialcops.com/engineering/machine-learning-python/
 https://www.kaggle.com/kanncaa1/data-sciencetutorial-for-beginners/
 https://medium.com/@williamkoehrsen
+http://pythonforengineers.com/machine-learning-for-complete-beginners/
 
 ## machine learning in nodejs
 https://github.com/lramsey/scikit-node
