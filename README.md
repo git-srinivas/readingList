@@ -42,6 +42,8 @@ https://school.shoutem.com/lectures/build-react-native-mobile-app-tutorial/
 https://github.com/kristoferjoseph/flexboxgrid
 https://github.com/rafaelhz/react-material-admin-template/blob/master/src/containers/DashboardPage.js
 https://rafaelhz.github.io/react-material-admin-template/#/dashboard?_k=z17ibf
+https://codesandbox.io/search?refinementList%5Btemplate%5D%5B0%5D=create-react-app&page=3
+https://stackblitz.com/
 
 # pen testing
 https://pentesterlab.com/
