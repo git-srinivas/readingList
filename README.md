@@ -15,6 +15,21 @@ https://blog.socialcops.com/engineering/machine-learning-python/
 https://www.kaggle.com/kanncaa1/data-sciencetutorial-for-beginners/
 https://medium.com/@williamkoehrsen
 http://pythonforengineers.com/machine-learning-for-complete-beginners/
+Nowadays we can just find some "awesome list" on Github instead of downloading review papers.  
+Such as this awesome CV repo: 
+https://lnkd.in/g9QiDKi
+
+Update:
+awesome-NLP: https://lnkd.in/gPcNBpX
+awesome-DL: https://lnkd.in/gh7gaDc
+awesome-DL: https://lnkd.in/gAvS_8p
+awesome-rl: https://lnkd.in/g2xFY-S
+awesome-rnn: https://lnkd.in/e4XgmY6
+Awesome-tensorflow: https://lnkd.in/eBgz9KJ
+awesome-dl4nlp: https://lnkd.in/gfvkyiX
+Speech and Natural Language Processing: https://lnkd.in/gT6_Y85
+awesome-speech-recognition: https://lnkd.in/e2Vebb4
+cs-video-courses: https://lnkd.in/gDTv6Z6
 
 ## machine learning in nodejs
 https://github.com/lramsey/scikit-node
