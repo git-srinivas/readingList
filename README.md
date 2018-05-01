@@ -65,3 +65,5 @@ https://pentesterlab.com/
 http://opensecuritytraining.info/Training.html
 https://picoctf.com/
 
+#JS
+https://javascript.info
